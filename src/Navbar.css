@@ -1,0 +1,19 @@
+
+.nav_logo{
+    position: fixed;
+    left:0;
+    width:120px;
+    object-fit:contain;
+    padding:20px;
+}
+.nav_avatar{
+    position: fixed;
+    right: 0;
+ width:30px;
+  right:0;
+  margin-right: 20px;
+  padding:20px;
+  object-fit: contain;
+   
+   
+}
